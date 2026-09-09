@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=Face%20Skeleton%20%26%20Cyber%20Mesh%20Tracker&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%203D%20Facial%20Landmark%20%26%20Head%20Pose%20Tracker&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:14B8A6&height=220&section=header&text=Face%20Skeleton%20Tracker&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-Time%203D%20Facial%20Landmark%20and%20Head%20Pose%20Tracker&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=2563EB&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+468+3D+Facial+Landmarks;%F0%9F%91%81%EF%B8%8F+Iris+%26+Gaze+Tracking;%F0%9F%93%90+Pitch+%2F+Yaw+%2F+Roll+Head+Pose;%F0%9F%98%8A+Blink+%26+Smile+Detection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=2563EB&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+468+3D+Facial+Landmarks;%F0%9F%91%81%EF%B8%8F+Iris+and+Gaze+Tracking;%F0%9F%93%90+Pitch+%2F+Yaw+%2F+Roll+Head+Pose;%F0%9F%98%8A+Blink+and+Smile+Detection" alt="Typing SVG" />
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/CV-MediaPipe-00C9A7?style=for-the-badge&logo=google&logoColor=white)
@@ -24,9 +24,6 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/your-demo-video-link-here
-
-*(Replace the link above with your uploaded demo video / GIF showing the cyber mesh, iris tracking, and head pose axes in action.)*
 
 </div>
 
